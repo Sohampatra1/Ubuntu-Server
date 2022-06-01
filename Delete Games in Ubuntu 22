@@ -1,0 +1,1 @@
+sudo apt purge aisleriot gnome-sudoku mahjongg ace-of-penguins gbrainy gnome-sushi gnome-taquin gnome-tetravex  gnome-robots gnome-chess lightsoff swell-foop quadrapassel && sudo apt autoremove
